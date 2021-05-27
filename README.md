@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm kuizuo</h1>
-<h3 align="center">Addicted to code</h3>
+<h3 align="center">A guy who's obsessed with code</h3>
+
+- 👨‍💻 All of my projects are available at [https://github.com/kuizuo](https://github.com/kuizuo)
+
+- 📝 I regularly write articles on [https://kuizuo.cn](https://kuizuo.cn)
+
+- 📫 How to reach me **kuizuo12@163.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
