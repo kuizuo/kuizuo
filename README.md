@@ -8,45 +8,18 @@
 
 - 📫 How to reach me **kuizuo12@gmail.com**
 
-<h3 align="left">Tech stack:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" height="40" />
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-      alt="vuejs" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" height="40" />
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noopener noreferrer"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-      alt="redis" height="40" />
-  </a>
-</p>
+### 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
+![NestJs](https://img.shields.io/badge/-NestJs-333333?style=flat&logo=nestjs&logoColor=ea2845)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuizuo&theme=react&show_icons=true&locale=en&layout=compact" alt="kuizuo" />
@@ -54,4 +27,3 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuizuo&theme=react&show_icons=true&layout=compact" alt="kuizuo" />
 </p>
-
