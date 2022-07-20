@@ -23,9 +23,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuizuo&theme=react&show_icons=true&locale=en&layout=compact" alt="kuizuo" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuizuo&theme=react&show_icons=true&layout=compact" alt="kuizuo" />
-</p>
+
+<div style={{ 'display': 'flex', 'flex-wrap': 'wrap'}}>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kuizuo&theme=dracula" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kuizuo&theme=dracula" />
+</div>
