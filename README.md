@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on [https://kuizuo.cn](https://kuizuo.cn)
 
-- 📫 How to reach me **kuizuo12@gmail.com**
+- 📫 How to reach me **hi@kuizuo.cn**
 
 ### 🛠 &nbsp;Tech Stack
 
