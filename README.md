@@ -16,7 +16,7 @@
 </a>
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
@@ -36,5 +36,4 @@
 
 - <img src="./icons/mail.svg"> [Email](mailto:hi@kuizuo.cn)
 - <img src="./icons/twitter.svg"> [Twitter](https://twitter.com/kuizuo)
-- <img src="./icons/telegram.svg"> [Telegram](https://t.me/kuizuo)
 - <img src="./icons/article.svg"> [Blog](https://kuizuo.cn/)
