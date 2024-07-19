@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-- 🧑🏻‍💻 TypeScript enthusiast, Node.js user, Rust beginner
+- 🧑🏻‍💻 TypeScript enthusiast, Node.js user, learned Python, Rust beginner.
 - 😀 Do something to make myself happy
 - 📫 You can reach me via email [hi@kuizuo.cn](mailto:hi@kuizuo.cn) 
 
