@@ -8,7 +8,7 @@
 
 ### Find me
 
-<p><a href="https://github.com/kuizuo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/kuizuo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> <a href="https://innei.in" target="_blank">
+<p><a href="https://github.com/kuizuo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/ku1zu0" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> <a href="https://innei.in" target="_blank">
 
 
 ![](https://raw.githubusercontent.com/kuizuo/github-stats/master/generated/overview.svg#gh-dark-mode-only)
